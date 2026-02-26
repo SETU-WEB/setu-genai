@@ -2,6 +2,7 @@
 description: >-
   Reliability, Honesty, Respect, and Accountability — the EU Living Guidelines
   framework
+icon: apple-core
 ---
 
 # Core Principles

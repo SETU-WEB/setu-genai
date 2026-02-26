@@ -1,66 +1,79 @@
 ---
-description: Welcome to your team’s developer platform
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/2AwfWOGBWBxQmyvHedqW/
+description: 'Page description: Purpose, scope, and how to use this knowledge base'
+icon: seal-question
+cover:
+  light: .gitbook/assets/IMG_0811.jpeg
+  dark: .gitbook/assets/IMG_0648.jpeg
+coverY: 509.91693564967125
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
-# Developer Platform
+# About This Resource
 
-<h2 align="center">Developer platform template</h2>
+## Generative AI in Research
 
-<p align="center">Welcome to your team’s new developer platform</p>
+#### Guidance for Researchers and Supervisors
 
-<p align="center"><a href="http://app.gitbook.com/join" class="button primary">Sign up</a> <a href="http://app.gitbook.com/join" class="button secondary">Log in</a></p>
+_Integrating Institutional Policy with a Practical Decision Framework_
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h4><i class="fa-leaf">:leaf:</i></h4></td><td><strong>No code</strong></td><td>Get started with the developer platform in 5 minutes.</td><td><a href="https://app.gitbook.com/o/-Lg9mnhyV3BJhygA9889/s/5PAFG7RabYUIKBUioPqQ/">Documentation</a></td><td><a href=".gitbook/assets/no-code.jpg">no-code.jpg</a></td></tr><tr><td><h4><i class="fa-server">:server:</i></h4></td><td><strong>Hosted</strong></td><td>Learn more about hosting the developer platform.</td><td><a href="https://app.gitbook.com/o/-Lg9mnhyV3BJhygA9889/s/5PAFG7RabYUIKBUioPqQ/">Documentation</a></td><td><a href=".gitbook/assets/hosted.jpg">hosted.jpg</a></td></tr><tr><td><h4><i class="fa-terminal">:terminal:</i></h4></td><td><strong>API reference</strong></td><td>Browse, test, and implement APIs.</td><td><a href="https://app.gitbook.com/o/-Lg9mnhyV3BJhygA9889/s/4xWvY8Ygh7INYhMuQqC1/">API Reference</a></td><td><a href=".gitbook/assets/api-reference.jpg">api-reference.jpg</a></td></tr></tbody></table>
+**Version 1.0 — January 2026 | Living Document — Updated Regularly**
 
-{% columns %}
-{% column %}
-### Get started in 5 minutes
+{% hint style="info" %}
+**Living Guidelines:** This guidance is regularly updated to reflect the rapidly evolving GenAI landscape. If you have suggestions for additions or corrections, use the feedback button or contact the Research Integrity and Compliance Officer.
+{% endhint %}
 
-Setting up your first API call should be the easiest part of getting started. With clear endpoints, copy-paste-ready examples, and quick authentication, you’ll be up and running in minutes—not hours.
+### About This Resource
 
-No guesswork, no complexity—just your first successful call, fast.
+This knowledge base supports the **ethical, responsible, critical, and transparent** use of Generative AI (GenAI) systems and tools by SETU researchers and supervisors. It was developed by SETU's **Working Group on Gen AI in Research**, a subgroup of SETU's AI Steering Committee established in late 2024.
 
-<a href="https://app.gitbook.com/o/-Lg9mnhyV3BJhygA9889/s/5PAFG7RabYUIKBUioPqQ/" class="button primary" data-icon="rocket-launch">Get started</a> <a href="https://app.gitbook.com/o/-Lg9mnhyV3BJhygA9889/s/4xWvY8Ygh7INYhMuQqC1/" class="button secondary" data-icon="terminal">API reference</a>
-{% endcolumn %}
-
-{% column %}
-{% code title="index.js" overflow="wrap" %}
-```javascript
-// Import the SDK
-import ExampleAPI from "example-api";
-
-// Initialize the client
-const client = new ExampleAPI({ apiKey: "YOUR_API_KEY" });
-
-// Send your first message
-const response = await client.messages.send({
-  message: "Hello, world!"
-});
-
-```
-{% endcode %}
-{% endcolumn %}
-{% endcolumns %}
+This guidance is **not prescriptive**. It does not recommend which specific GenAI tools should or should not be used. Instead, it takes a **principles-based approach**, building on the core research integrity values of reliability, honesty, respect, and accountability — framed around the [EU Living Guidelines on the Responsible Use of Generative AI in Research](https://research-and-innovation.ec.europa.eu/).
 
 {% columns %}
 {% column %}
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/placeholder.png" alt=""><figcaption></figcaption></figure>
+### What This Resource Provides
+
+* **Core principles** aligned with EU and national research integrity frameworks
+* **Clear guidance** on data protection and GDPR compliance
+* **Practical case studies** addressing common research scenarios
+* **A decision framework** for determining appropriate AI usage levels
+* **Specific guidance** for supervisors working with research students
+* **Interactive tools** for navigating the framework
+
+
 {% endcolumn %}
 
 {% column %}
-### Learn more about the developer platform
+### Who This Applies To
 
-Read guides, watch tutorials, and learn more about working with the developer platform and integrating it with your own stack.
+This guidance applies to all individuals and groups who engage in, or support, research activities under the auspices of SETU, including:
 
-<a href="https://app.gitbook.com/o/-Lg9mnhyV3BJhygA9889/s/9j5iLoSYOgOXan49zQrd/" class="button primary" data-icon="book-open">Guides</a> <a href="https://app.gitbook.com/o/-Lg9mnhyV3BJhygA9889/s/5PAFG7RabYUIKBUioPqQ/" class="button secondary" data-icon="book">Documentation</a>
+* All permanent, part-time or contract staff engaged in research
+* Those involved in setting research priorities, strategies, policies and assessment
+* All enrolled students who engage in research
+* Research conducted on any SETU campus or on behalf of the institution at any location
 {% endcolumn %}
 {% endcolumns %}
 
-<h2 align="center">Join a community of over 3,000 developers</h2>
+### How to Navigate This Resource
 
-<p align="center">Join our Discord community or create your first PR in just a few steps.</p>
+Use the left-hand navigation to move between sections. The **Tools** section contains interactive applications to support decision-making about AI use in specific research contexts.
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4><i class="fa-discord">:discord:</i></h4></td><td><strong>Discord community</strong></td><td>Join our Discord community to post questions, get help, and share resources with over 3,000 like-minded developers.</td><td><a href="https://www.gitbook.com/" class="button secondary">Join Discord</a></td><td><a href="https://images.unsplash.com/photo-1683029096295-7680306aa37d?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxkaXNjb3JkfGVufDB8fHx8MTc3MjEzMDQwOHww&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1683029096295-7680306aa37d?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxkaXNjb3JkfGVufDB8fHx8MTc3MjEzMDQwOHww&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr><tr><td><h4><i class="fa-github">:github:</i></h4></td><td><strong>GitHub</strong></td><td>Our product is 100% open source and built by developers just like you. Head to our GitHub repository to learn how to submit your first PR.</td><td><a href="https://www.gitbook.com/" class="button secondary">Submit a PR</a></td><td><a href="https://images.unsplash.com/photo-1654277041218-84424c78f0ae?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxnaXRodWJ8ZW58MHx8fHwxNzcyMTMwNDM0fDA&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1654277041218-84424c78f0ae?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxnaXRodWJ8ZW58MHx8fHwxNzcyMTMwNDM0fDA&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr></tbody></table>
+This guidance should be used alongside the **Code of Conduct for Responsible Research Practice** and SETU's institutional GenAI Staff and Student Guidelines.

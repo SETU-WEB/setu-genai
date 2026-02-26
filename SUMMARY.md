@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Developer Platform](README.md)
-* [About This Resource](about-this-resource.md)
+* [About This Resource](README.md)
 
 ## Part A: Institutional Guidance
 
@@ -19,4 +18,5 @@
 
 ## Tools
 
-* [Page 4](tools/page-4.md)
+* [Decision Tool](tools/decision-tool.md)
+* [Developer Platform](tools/readme.md)
