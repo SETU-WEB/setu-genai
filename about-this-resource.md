@@ -1,5 +1,29 @@
 ---
 description: 'Page description: Purpose, scope, and how to use this knowledge base'
+icon: seal-question
+cover:
+  light: .gitbook/assets/IMG_0811.jpeg
+  dark: .gitbook/assets/IMG_0648.jpeg
+coverY: 509.91693564967125
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # About This Resource
@@ -53,5 +77,3 @@ This guidance applies to all individuals and groups who engage in, or support, r
 Use the left-hand navigation to move between sections. The **Tools** section contains interactive applications to support decision-making about AI use in specific research contexts.
 
 This guidance should be used alongside the **Code of Conduct for Responsible Research Practice** and SETU's institutional GenAI Staff and Student Guidelines.
-
-_Questions or concerns about acceptable usage of GenAI for research purposes? Contact SETU's Research Integrity and Compliance Officer._
