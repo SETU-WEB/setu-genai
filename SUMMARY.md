@@ -20,3 +20,7 @@
 
 * [Decision Tool](tools/decision-tool.md)
 * [Developer Platform](tools/readme.md)
+
+***
+
+* [genai research guidance](genai-research-guidance.md)
