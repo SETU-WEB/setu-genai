@@ -8,3 +8,5 @@ description: Decision making in research
 
 {% embed url="https://www.caseyclan.ie/tools/AI_Research_Scale.html" %}
 
+{% embed url="https://www.caseyclan.ie/tools/AI_Research_Scale.html" %}
+

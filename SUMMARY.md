@@ -13,7 +13,7 @@
 
 ## Part C: Resources & Training
 
-* [Page 3](part-c-resources-and-training/page-3.md)
+* [Build Plan](part-c-resources-and-training/build-plan.md)
 * [GitBook\_Suitability\_Analysis](part-c-resources-and-training/gitbook_suitability_analysis.md)
 
 ## Tools
