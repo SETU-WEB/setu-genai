@@ -9,7 +9,7 @@
 
 ## Part B: Decision Framework
 
-* [Page 2](part-b-decision-framework/page-2.md)
+* [Risks and Limitations of GenAI Tools](part-b-decision-framework/risks-and-limitations-of-genai-tools.md)
 
 ## Part C: Resources & Training
 
