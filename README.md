@@ -34,7 +34,7 @@ layout:
 
 _Integrating Institutional Policy with a Practical Decision Framework_
 
-**Version 1.0 — January 2026 | Living Document — Updated Regularly**
+**Version 1.0 — February 2026 | Living Document — Updated Regularly**
 
 {% hint style="info" %}
 **Living Guidelines:** This guidance is regularly updated to reflect the rapidly evolving GenAI landscape. If you have suggestions for additions or corrections, use the feedback button or contact the Research Integrity and Compliance Officer.
