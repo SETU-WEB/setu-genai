@@ -1,5 +1,8 @@
 ---
-description: 'Page description: Purpose, scope, and how to use this knowledge base'
+description: >-
+  This knowledge base supports the ethical, responsible, critical, and
+  transparent use of Generative AI (GenAI) systems and tools by SETU researchers
+  and supervisors.
 icon: seal-question
 cover:
   light: .gitbook/assets/IMG_0811.jpeg
@@ -27,20 +30,6 @@ layout:
 ---
 
 # About This Resource
-
-## Generative AI in Research
-
-#### Guidance for Researchers and Supervisors
-
-_Integrating Institutional Policy with a Practical Decision Framework_
-
-**Version 1.0 — February 2026 | Living Document — Updated Regularly**
-
-{% hint style="info" %}
-**Living Guidelines:** This guidance is regularly updated to reflect the rapidly evolving GenAI landscape. If you have suggestions for additions or corrections, use the feedback button or contact the Research Integrity and Compliance Officer.
-{% endhint %}
-
-### About This Resource
 
 This knowledge base supports the **ethical, responsible, critical, and transparent** use of Generative AI (GenAI) systems and tools by SETU researchers and supervisors. It was developed by SETU's **Working Group on Gen AI in Research**, a subgroup of SETU's AI Steering Committee established in late 2024.
 
@@ -71,6 +60,16 @@ This guidance applies to all individuals and groups who engage in, or support, r
 * Research conducted on any SETU campus or on behalf of the institution at any location
 {% endcolumn %}
 {% endcolumns %}
+
+#### Guidance for Researchers and Supervisors
+
+_Integrating Institutional Policy with a Practical Decision Framework_
+
+**Version 1.0 — February 2026 | Living Document — Updated Regularly**
+
+{% hint style="info" %}
+**Living Guidelines:** This guidance is regularly updated to reflect the rapidly evolving GenAI landscape. If you have suggestions for additions or corrections, use the feedback button or contact the Research Integrity and Compliance Officer.
+{% endhint %}
 
 ### How to Navigate This Resource
 
