@@ -1,8 +1,4 @@
 ---
-description: >-
-  This knowledge base supports the ethical, responsible, critical, and
-  transparent use of Generative AI (GenAI) systems and tools by SETU researchers
-  and supervisors.
 icon: seal-question
 cover:
   light: .gitbook/assets/IMG_0811.jpeg
