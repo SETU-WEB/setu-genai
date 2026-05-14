@@ -1,3 +1,7 @@
+---
+icon: asterisk
+---
+
 # Risks and Limitations of GenAI Tools
 
 ### Risks and Limitations of GenAI Tools

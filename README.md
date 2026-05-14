@@ -38,11 +38,8 @@ This guidance is **not prescriptive**. It does not recommend which specific GenA
 * **Core principles** aligned with EU and national research integrity frameworks
 * **Clear guidance** on data protection and GDPR compliance
 * **Practical case studies** addressing common research scenarios
-* **A decision framework** for determining appropriate AI usage levels
 * **Specific guidance** for supervisors working with research students
 * **Interactive tools** for navigating the framework
-
-
 {% endcolumn %}
 
 {% column %}
@@ -61,14 +58,8 @@ This guidance applies to all individuals and groups who engage in, or support, r
 
 _Integrating Institutional Policy with a Practical Decision Framework_
 
-**Version 1.0 — February 2026 | Living Document — Updated Regularly**
 
-{% hint style="info" %}
-**Living Guidelines:** This guidance is regularly updated to reflect the rapidly evolving GenAI landscape. If you have suggestions for additions or corrections, use the feedback button or contact the Research Integrity and Compliance Officer.
-{% endhint %}
 
 ### How to Navigate This Resource
 
-Use the left-hand navigation to move between sections. The **Tools** section contains interactive applications to support decision-making about AI use in specific research contexts.
-
-This guidance should be used alongside the **Code of Conduct for Responsible Research Practice** and SETU's institutional GenAI Staff and Student Guidelines.
+Use the left-hand navigation to move between sections. This guidance should be used alongside the **Code of Conduct for Responsible Research Practice** and SETU's Staff and Student GenAI Guidelines.

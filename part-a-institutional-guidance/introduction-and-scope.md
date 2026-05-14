@@ -5,6 +5,14 @@ icon: telescope
 
 # Introduction & Scope
 
+{% hint style="info" %}
+**Living Guidelines:** This guidance is regularly updated to reflect the rapidly evolving GenAI landscape. If you have suggestions for additions or corrections, use the feedback button or contact the Research Integrity and Compliance Officer.
+
+**Version 1.0 — February 2026**&#x20;
+
+**Next update: June 2026**
+{% endhint %}
+
 ### Introduction
 
 Generative AI has great potential for accelerating scientific discovery and improving research productivity. Positive applications include improved inclusivity through translation of texts for non-native speakers, efficient literature synthesis across large bodies of work, and assistance with writing analysis code. However, GenAI also entails significant risks including data privacy concerns and the inputting of confidential data into external systems, lack of reliability and reproducibility of research outputs, potential reproduction of existing biases, and significant threats to intellectual property and research integrity.
@@ -12,7 +20,7 @@ Generative AI has great potential for accelerating scientific discovery and impr
 Without clear guidance on how to navigate the various ethical considerations and limitations of these systems and tools, researchers and supervisors report discomfort with encouraging postgraduate research students to innovate with these tools. Without guidance, researchers may potentially use them in ways that put research integrity at risk.
 
 {% hint style="warning" %}
-&#x20;**Cognitive Offloading Risk:** Recent studies have found a significant negative correlation between frequent AI tool usage and critical thinking abilities. Researchers must engage critically with AI technologies and avoid over-reliance.&#x20;
+**Cognitive Offloading Risk:** Recent studies have found a significant negative correlation between frequent AI tool usage and critical thinking abilities. Researchers must engage critically with AI technologies and avoid over-reliance.
 {% endhint %}
 
 ### Purpose
@@ -37,4 +45,3 @@ This guidance applies to all individuals and groups who engage in, or support, r
 * Research conducted on any campus or on behalf of the institution at any location
 
 <figure><img src="../.gitbook/assets/IMG_5861.jpeg" alt=""><figcaption></figcaption></figure>
-

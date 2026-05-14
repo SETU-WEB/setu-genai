@@ -30,14 +30,3 @@ For colleagues, research participants, research subjects, society, and the envir
 ### Accountability
 
 For the research from idea to publication, for its management and organisation, for training, supervision and mentoring, and for its wider societal impacts. **Researchers remain ultimately responsible** for all aspects of their scientific outputs, including the integrity, accuracy, validity, and originality of all content.
-
-### Applying Principles Across AI Usage Levels
-
-These principles have different implications depending on the level of AI involvement in a task. See The Five-Level Framework for how these principles apply at each level of AI usage.
-
-| Principle      | Low AI Use (L1–2)            | Moderate AI Use (L3)                      | High AI Use (L4–5)                              |
-| -------------- | ---------------------------- | ----------------------------------------- | ----------------------------------------------- |
-| Reliability    | Standard verification        | Additional verification of AI suggestions | Rigorous independent validation required        |
-| Honesty        | Acknowledge any use          | Document AI's role in shaping outputs     | Full disclosure of AI contribution              |
-| Respect        | Standard ethics              | Consider AI limitations in outputs        | Scrutinise for bias amplification               |
-| Accountability | Researcher fully accountable | Researcher accountable for AI-shaped work | Researcher accountable for AI-generated content |
