@@ -17,16 +17,18 @@ These principles are framed around the [EU Living Guidelines on the Responsible 
 
 ### Reliability
 
-Ensuring the quality of research, reflected in the design, methodology, analysis and use of resources. This includes **verifying and reproducing** information produced by AI for research, and being aware of possible equality and non-discrimination issues in relation to bias and inaccuracies.
+"Reliability in ensuring the quality of research, reflected in the design, methodology, analysis and use of resources. This includes aspects related to **verifying and reproducing** the information produced by AI for research.  It also involves being aware of possible equality and non-discrimination issues in relation to bias and inaccuracies."
 
 ### Honesty
 
-Developing, carrying out, reviewing, reporting and communicating on research **transparently, fairly, thoroughly and impartially**. This principle includes disclosing that generative AI has been used, what tools have been used, how they have been used and for what purposes.
+"Honesty in developing, carrying out, reviewing, reporting and communicating on research **transparently, fairly, thoroughly and impartially**. This principle includes disclosing that generative AI has been used."
 
 ### Respect
 
-For colleagues, research participants, research subjects, society, and the environment. Responsible use of generative AI should consider the **limitations of the technology, its environmental impact** and its societal effects (bias, diversity, non-discrimination, fairness and prevention of harm).
+"Respect for colleagues, research participants, research subjects, society, ecosystems, cultural heritage and the environment. Responsible use of generative AI should consider the **limitations of the technology, its environmental impact** and its societal effects (bias, diversity, non-discrimination, fairness and prevention of harm).  This includes the proper management of information, respect for privacy,\
+confidentiality and intellectual property rights, and proper citation."
 
 ### Accountability
 
-For the research from idea to publication, for its management and organisation, for training, supervision and mentoring, and for its wider societal impacts. **Researchers remain ultimately responsible** for all aspects of their scientific outputs, including the integrity, accuracy, validity, and originality of all content.
+"Accountability for the research from idea to publication, for its management and organisation, for training, supervision and mentoring, and for its wider societal impacts. This includes responsibility for all output that a researcher produces,\
+underpinned by the notion of human agency and oversight."
