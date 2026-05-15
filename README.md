@@ -54,12 +54,6 @@ This guidance applies to all individuals and groups who engage in, or support, r
 {% endcolumn %}
 {% endcolumns %}
 
-#### Guidance for Researchers and Supervisors
-
-_Integrating Institutional Policy with a Practical Decision Framework_
-
-
-
 ### How to Navigate This Resource
 
 Use the left-hand navigation to move between sections. This guidance should be used alongside the **Code of Conduct for Responsible Research Practice** and SETU's Staff and Student GenAI Guidelines.

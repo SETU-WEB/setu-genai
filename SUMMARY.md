@@ -13,7 +13,6 @@
 ## Guidance For Supervisors
 
 * [Guidance for Supervisors](guidance-for-supervisors/guidance-for-supervisors.md)
-* [Page 2](guidance-for-supervisors/page-2.md)
 
 ## Training and Support
 
