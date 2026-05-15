@@ -2,16 +2,25 @@
 
 * [About This Resource](README.md)
 
-## Part A: Institutional Guidance
+## Institutional Guidance
 
-* [Introduction & Scope](part-a-institutional-guidance/introduction-and-scope.md)
-* [Core Principles](part-a-institutional-guidance/core-principles.md)
-* [Risks and Limitations of GenAI Tools](part-a-institutional-guidance/risks-and-limitations-of-genai-tools.md)
-* [Data Protection, Privacy and Confidentiality](part-a-institutional-guidance/data-protection-privacy-and-confidentiality.md)
-* [5. Acknowledgment](part-a-institutional-guidance/5.-acknowledgment.md)
+* [Introduction & Scope](institutional-guidance/introduction-and-scope.md)
+* [Core Principles](institutional-guidance/core-principles.md)
+* [Risks and Limitations of GenAI Tools](institutional-guidance/risks-and-limitations-of-genai-tools.md)
+* [Data Protection, Privacy and Confidentiality](institutional-guidance/data-protection-privacy-and-confidentiality.md)
+* [Acknowledgement](institutional-guidance/acknowledgement.md)
 
-## Part B: Decision Framework
+## Guidance For Supervisors
 
-***
+* [Guidance for Supervisors](guidance-for-supervisors/guidance-for-supervisors.md)
+* [Page 2](guidance-for-supervisors/page-2.md)
 
-* [genai research guidance](genai-research-guidance.md)
+## Training and Support
+
+* [Resources](training-and-support/resources.md)
+* [Advice for Researchers](training-and-support/advice-for-researchers.md)
+
+## AI Connect (CoP)
+
+* [Purpose](ai-connect-cop/purpose.md)
+* [Join AI Connect](ai-connect-cop/join-ai-connect.md)

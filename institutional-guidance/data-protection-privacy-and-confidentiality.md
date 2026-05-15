@@ -10,7 +10,7 @@ icon: lock-hashtag
 **Critical Rule:** Never input personal data, sensitive personal data, confidential information or IP into external GenAI tools without proper safeguards and lawful basis. All staff and students must ensure that they comply with [GDPR](https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng), [SETU Data Protection Policy](https://www.setu.ie/Craft/assets/policies/Data-Protection-Policy-V1.1-Jan-2024.pdf), [SETU Data Protection Procedures](about:blank) and [SETU Intellectual Property (IP) Policy](https://www.setu.ie/Craft/assets/policies/Intellectual-Property-Policy.pdf) before inputting any personal or confidential information or any IP into an external Gen AI tool.
 {% endhint %}
 
-### 4.1 Key Definitions
+### Key Definitions
 
 #### Personal Data
 
@@ -24,7 +24,7 @@ Information an individual expects to be kept confidential, even if it doesn’t 
 
 Data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic data, biometric data, health data, or data concerning sex life or sexual orientation. This requires the highest standard of protection.
 
-### 4.2 What You Must NOT Input into External Tools
+### What You Must NOT Input into External Tools
 
 • Never input personal data (e.g. names, contact details, demographics) [without legal bases](https://www.dataprotection.ie/en/dpc-guidance/guidance-legal-bases-processing-personal-data) (See Article 6 GDPR)
 
@@ -40,9 +40,9 @@ Data revealing racial or ethnic origin, political opinions, religious or philoso
 
 • Never input intellectual property or input any ideas that you would like to patent later
 
-### 4.4 If Using External Tools
+### If Using External Tools
 
-If you use any GenAI tools not supported by SETU (i.e. if SETU doesn’t have a licence for the tool):\[4] \[5] \[6]
+If you use any GenAI tools not supported by SETU (i.e. if SETU doesn’t have a licence for the tool):
 
 • Check the provider’s terms and conditions regarding retaining inputted data for training models
 
