@@ -13,6 +13,7 @@
 ## Guidance For Supervisors
 
 * [Guidance for Supervisors](guidance-for-supervisors/guidance-for-supervisors.md)
+* [Case Studies](guidance-for-supervisors/case-studies.md)
 
 ## Training and Support
 

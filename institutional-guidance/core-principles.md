@@ -25,8 +25,7 @@ These principles are framed around the [EU Living Guidelines on the Responsible 
 
 ### Respect
 
-"Respect for colleagues, research participants, research subjects, society, ecosystems, cultural heritage and the environment. Responsible use of generative AI should consider the **limitations of the technology, its environmental impact** and its societal effects (bias, diversity, non-discrimination, fairness and prevention of harm).  This includes the proper management of information, respect for privacy,\
-confidentiality and intellectual property rights, and proper citation."
+"Respect for colleagues, research participants, research subjects, society, ecosystems, cultural heritage and the environment. Responsible use of generative AI should consider the **limitations of the technology, its environmental impact** and its societal effects (bias, diversity, non-discrimination, fairness and prevention of harm).  This includes the proper management of information, respect for privacy, confidentiality and intellectual property rights, and proper citation."
 
 ### Accountability
 
