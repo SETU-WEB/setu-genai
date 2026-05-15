@@ -57,3 +57,7 @@ This guidance applies to all individuals and groups who engage in, or support, r
 ### How to Navigate This Resource
 
 Use the left-hand navigation to move between sections. This guidance should be used alongside the **Code of Conduct for Responsible Research Practice** and SETU's Staff and Student GenAI Guidelines.
+
+#### Working Group Members
+
+The members of the working group are: Prof. Kim Murphy, Dr Daire Ó Broin, Dr Martin Harrigan, Dr Luke Power, Dr Sinead O'Halloran, Dr Brenda Murphy, and Dr Brian Casey.
