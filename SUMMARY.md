@@ -24,3 +24,4 @@
 
 * [Purpose](ai-connect-cop/purpose.md)
 * [Join AI Connect](ai-connect-cop/join-ai-connect.md)
+* [Survey](ai-connect-cop/survey.md)
