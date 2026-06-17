@@ -8,4 +8,4 @@ This anonymous 5-minute survey explored how SETU researchers use generative AI t
 
 Click below to download an executive summary showing the key results:
 
-{% file src="../.gitbook/assets/Executive Summary of Gen AI Survey of SETU Researchers 2025.pdf" %}
+{% file src="../.gitbook/assets/Executive Summary of Gen AI Survey of SETU Researchers.pdf" %}
